@@ -1,5 +1,4 @@
 user name unique 
-f_name ,lanme
 email,
 password, 
-gender ,
+phone,
